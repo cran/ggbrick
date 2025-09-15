@@ -1,7 +1,7 @@
 Package: ggbrick
 Type: Package
 Title: Waffle Style Chart with a Brick Layout in 'ggplot2'
-Version: 0.3.0
+Version: 0.3.1
 Authors@R: 
   person(given = "Daniel",
          family = "Oehm",
@@ -14,9 +14,9 @@ Depends: R (>= 3.5.0)
 Imports: ggplot2, dplyr, purrr, glue
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2024-03-14 05:41:08 UTC; danie
+Packaged: 2025-09-15 00:36:12 UTC; danie
 Author: Daniel Oehm [aut, cre]
 Repository: CRAN
-Date/Publication: 2024-03-14 20:20:02 UTC
+Date/Publication: 2025-09-15 02:30:02 UTC
