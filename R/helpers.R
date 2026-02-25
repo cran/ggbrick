@@ -173,7 +173,7 @@ robust_random <- function(x, val) {
     )
 
   rand <- orig %>%
-    distinct(id, x) %>%
+    distinct(.data$id, x) %>%
     mutate(new_x = sample(x))
 
   orig %>%
